@@ -27,4 +27,3 @@ go.work.sum
 public/
 resources/
 .hugo_build.lock
-themes/
