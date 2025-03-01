@@ -1,8 +1,0 @@
-baseURL = 'https://docs.umi-no-yamaneko.jp/'
-languageCode = 'ja'
-title = 'Yamaneko Docs'
-theme = 'relearn'
-
-[params]
-  disableLandingPage = true
-  themeVariant = ['custom-blue']
