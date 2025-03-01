@@ -5,14 +5,16 @@ title = 'スペック'
 - 対応環境
     - VRChat
         - Avatar 3.0
-        - PhysBone対応
-        - PCのみ(Andoroid非対応)
+        - PhysBone設定済み
+        - PCのみ(Android非対応)
 
 - ポリゴン数
-    - null
+    - 45,574
+        - 素体(頭部含む): 25,128
+        - 髪(ヘアピン含む): 4,401
 
 - スキンドメッシュ数
-    - null
+    - 10
 
 - フルトラッキング
     - 対応
@@ -21,7 +23,7 @@ title = 'スペック'
     - liltoon
 
 - マテリアル数
-    - null
+    - 10
 
 - Avatar Rank
     - Poor
@@ -33,7 +35,7 @@ title = 'スペック'
     - 設定済み
         - 衣装
         - 髪
-        - ギター
+        - ギター(音は鳴りません)
 
 - FaceEmo
     - 設定済み
