@@ -24,4 +24,16 @@ title = '導入方法'
 3. Boothからダウンロードし，解凍したフォルダからUnitypackageをインポートします。
 ![パッケージインポート詳細](https://storage.umi-no-yamaneko.jp/docs_assets/avatar/amami-tone/install/amami-tone-install-003.png)
 
-4. 
+4. プロジェクトタブのSceneフォルダ内のamami-toneをダブルクリックします。
+![シーンの展開](https://storage.umi-no-yamaneko.jp/docs_assets/avatar/amami-tone/install/amami-tone-install-004.png)
+
+5. ヒエラルキーのamami-toneシーンを右クリックし，"シーンを別名で保存"をクリックし，Assetsフォルダの直下に任意の名前でシーンを保存します。
+![シーンを別名で保存](https://storage.umi-no-yamaneko.jp/docs_assets/avatar/amami-tone/install/amami-tone-install-005.png)
+
+6. 別名で保存したシーンのヒエラルキーから，"amami-tone"プレハブの"Emo"アイコンをクリックし，"アバターに適用"をクリックします。
+![フェイシャルの適用](https://storage.umi-no-yamaneko.jp/docs_assets/avatar/amami-tone/install/amami-tone-install-006.png)
+
+7. "表情メニューをアバターに適用しますか?"の画面で"適用"をクリックします。
+![フェイシャルの適用](https://storage.umi-no-yamaneko.jp/docs_assets/avatar/amami-tone/install/amami-tone-install-007.png)
+
+以上でアバターのセットアップは完了です。
